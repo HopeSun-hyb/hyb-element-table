@@ -2,7 +2,8 @@
   <div id="app">
     <div id="nav">
       <router-link to="/">tableRowHover</router-link> |
-      <router-link to="/TableRules">tableRouters</router-link>
+      <router-link to="/TableRules">tableRouters</router-link> | 
+      <router-link to="/WatchRouter">WatchRouter</router-link>
     </div>
     <router-view/>
   </div>
