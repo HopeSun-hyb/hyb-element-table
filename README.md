@@ -19,3 +19,4 @@ yarn build
 
 1. el-table设置某些行的背景颜色，不受默认 hover样式影响 [代码](./src/views/TableRowHover.vue), [博客](https://blog.csdn.net/hyb_xiaoWuWan/article/details/110672791)  
 2. 动态新增table 的行来增加多条信息，并且在新增的时候要对填写的数据进行验证。 [代码](./src/views/TableRules.vue), [博客](https://blog.csdn.net/hyb_xiaoWuWan/article/details/111457278)  
+3. 监听路由参数显示子页面。 [代码](./src/views/watchRouter/WatchRouter.vue), [博客](https://blog.csdn.net/hyb_xiaoWuWan/article/details/111460598)  
